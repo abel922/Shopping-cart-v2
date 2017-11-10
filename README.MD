@@ -10,4 +10,5 @@ Abel García Luis
 ```
 npm install
 ```
-* Then run the project with npm start and go to your browser: http://localhost:3000/
+* Install MongoDB (to load all data or create new to the project) in your local machine, then with differents commands prompts run mongod and mongo in this directory: C:\Program Files\MongoDB\Server\3.4\bin to start mongo database.
+* Finally with Gitbash run the project with npm start and go to your browser: http://localhost:3000/
